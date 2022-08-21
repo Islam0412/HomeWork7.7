@@ -10,5 +10,5 @@ public class Medic extends Hero{
     }
    public int HealPoints;
     double increaseExperience;
-    
+
 }
